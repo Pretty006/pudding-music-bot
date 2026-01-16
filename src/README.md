@@ -1,2 +1,2 @@
-# Pudding Music Bot
+ Pudding Music Bot
 Professional Discord Music Bot
